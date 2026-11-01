@@ -25,7 +25,7 @@ a country-code status line in the footer.
 From a git source (recommended for sharing):
 
 ```bash
-pi install git:<your-repo-url>@v1
+pi install git:https://github.com/pingdongyi/pi-ip-country.git@v1
 ```
 
 Or from a local path:
