@@ -1,0 +1,16 @@
+{
+  "name": "pi-ip-country",
+  "version": "1.0.0",
+  "description": "Pi extension: show the country of an IP address via Cloudflare trace (own IP) and ipwho.is (any IP), with a loc-only auto-refreshing footer status line.",
+  "keywords": ["pi-package", "pi", "extension", "ip", "country", "geoip", "cloudflare"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions/ip-country.ts"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "typebox": "*"
+  },
+  "files": ["extensions", "README.md", "LICENSE"]
+}
