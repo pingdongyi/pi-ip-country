@@ -1,5 +1,12 @@
 # pi-ip-country
 
+[![GitHub license](https://img.shields.io/github/license/pingdongyi/pi-ip-country)](https://github.com/pingdongyi/pi-ip-country/blob/main/LICENSE)
+[![GitHub tag](https://img.shields.io/github/v/tag/pingdongyi/pi-ip-country)](https://github.com/pingdongyi/pi-ip-country/tags)
+[![pi package](https://img.shields.io/badge/pi-package-7C3AED)](https://pi.dev/packages)
+[![GitHub stars](https://img.shields.io/github/stars/pingdongyi/pi-ip-country)](https://github.com/pingdongyi/pi-ip-country/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/pingdongyi/pi-ip-country)](https://github.com/pingdongyi/pi-ip-country/forks)
+[![GitHub issues](https://img.shields.io/github/issues/pingdongyi/pi-ip-country)](https://github.com/pingdongyi/pi-ip-country/issues)
+
 A [Pi](https://pi.dev) extension that reports the country of an IP address and shows
 a country-code status line in the footer.
 
